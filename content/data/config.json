@@ -13,6 +13,11 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "Hola",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
                 "label": "Features",
                 "url": "/features",
                 "style": "link"
@@ -29,11 +34,6 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Hola",
-                "url": "/style-guide",
                 "style": "link"
             }
         ],
