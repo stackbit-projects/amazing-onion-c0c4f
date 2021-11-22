@@ -23,12 +23,12 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "url": "/blog",
+                "label": "About",
+                "url": "/about",
                 "style": "link"
             },
             {
